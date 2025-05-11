@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pyrebase4
+flet
+httpx
